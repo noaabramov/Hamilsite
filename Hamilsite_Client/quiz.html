@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hamilton Guessing Game - Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Hamilton Guessing Game - Quiz</h1>
+  </header>
+  <main>
+    <section class="step" id="step1">
+      <h2>Step 1: Guess the Song</h2>
+      <audio controls id="audioPlayer">
+        <source src="song.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <input type="text" id="songGuessInput" placeholder="Enter song name">
+      <button id="songGuessButton">Submit</button>
+      <p id="songResultMessage"></p>
+    </section>
+    <section class="step" id="step2">
+      <h2>Step 2: Select George Washington</h2>
+      <div id="imageOptions">
+        <img src="image1.jpg" alt="Option 1" id="image1">
+        <img src="image2.jpg" alt="Option 2" id="image2">
+      </div>
+      <p id="imageResultMessage"></p>
+    </section>
+    <section class="step" id="step3">
+      <h2>Step 3: Fill in the Blank</h2>
+      <p>Complete the missing word:</p>
+      <p id="fillInTheBlankSentence">"Who lives, who dies, who tells your ____."</p>
+      <input type="text" id="fillInTheBlankInput" placeholder="Enter the missing word">
+      <button id="fillInTheBlankButton">Submit</button>
+      <p id="fillInTheBlankResultMessage"></p>
+    </section>
+  </main>
+  <footer>
+    <!-- Back button to the homepage -->
+    <button id="backButton">Back to Homepage</button>
+    <p>&copy; 2023 Hamilton Guessing Game</p>
+  <script src="quiz.js"></script>
+</body>
+</html>

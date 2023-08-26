@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hamilton Guessing Game</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1 class="title">Hamilton <span class="colored">Guessing Game</span></h1>
+    <h4>For true Hamilton lovers</h4>
+    <p class="tagline">Test your knowledge of the hit musical!</p>
+    <select id="languageSwitcher">
+      <option value="en">English</option>
+      <option value="he">עברית</option>
+    </select>
+  </header>
+
+  <main class="main">
+    <section class="content">
+      <h2 class="welcome"></h2>
+      <p class="description"></p>
+
+      <button id="start" class="button primary">Play Now</button>
+      <button id="about" class="button secondary">Learn About Hamilton</button>
+      <div id="imageOptions">
+        <img src="hamiltonLogo.jpg" alt="Image 1">
+        <img src="musical1.jpg" alt="Image 2">
+        <img src="musical2.jpg" alt="Image 3">
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2023 Hamilton Guessing Game</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

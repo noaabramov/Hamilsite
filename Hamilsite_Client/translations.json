@@ -1,0 +1,40 @@
+{
+      "welcome": {
+        "en": "Welcome to the Hamilton Guessing Game!",
+        "he": "ברוכים הבאים למשחק הניחושים של המחזמר המפורסם!"
+      },
+      "description": {
+        "en": "Get ready to challenge yourself with trivia and puzzles inspired by the hit musical \"Hamilton: An American Musical.\" Put your knowledge to the test and have fun guessing the songs, characters, and more!",
+        "he": "התכוננו להתאתגר עם שאלות טריוויה ופאזלים בהשראת מהמחזמר המפורסם \"המחזמר האמריקאי\". תבחנו את הידע שלכם ותהנו לנחש את השירים, הדמויות ועוד!"
+      },
+      "start": {
+        "en": "Play Now",
+        "he": "התחל המשחק"
+      },
+      "about": {
+        "en": "Learn About Hamilton",
+        "he": "מידע על המחזמר"
+      },
+      "subtitle": {
+        "en": "About the Musical",
+        "he": "על המחזמר"
+      },
+      "musical": {
+        "en": "\"Hamilton: An American Musical\" is a groundbreaking hip-hop musical written by Lin-Manuel Miranda. It tells the story of Alexander Hamilton, one of the Founding Fathers of the United States.",
+        "he": "\"המחזמר האמריקאי\" הוא מחזמר היפ הופ חדשני שנכתב על ידי לין-מנואל מירנדה. הוא מספר את סיפורו של אלכסנדר המילטון, אחד מחתימי אף אחרון של ארצות הברית."
+      },
+      "impact": {
+        "en": "Since its debut on Broadway, \"Hamilton\" has received critical acclaim and garnered numerous awards. Its unique blend of history and modern music has captivated audiences worldwide.",
+        "he": "מאז הצגתו הראשונה בברודווי, \"המחזמר האמריקאי\" זכה לשבחים וזיכה במספר פרסים. השילוב הייחודי של היסטוריה ומוזיקה מודרנית הצליב לו חובבים מרחבי העולם."
+      },
+      "themes": {
+        "en": "The musical explores themes of ambition, legacy, and the American Revolution. Its catchy songs and clever lyrics have made it a cultural phenomenon.",
+        "he": "המחזמר מסקר את נושאי השאיפה, המורשת והמהפכה האמריקאית. שיריו המגניבים והתיקים הפכו אותו לפינומן תרבותי."
+      },
+      "back": {
+        "en": "Back to Homepage",
+        "he": "חזור לדף הבית"
+      }
+    
+  }
+  
